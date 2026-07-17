@@ -10,3 +10,7 @@ Dataset extraído em: 10 de abril de 2026
         Ao longo do desenvolvimento desta pesquisa, foi escolhido um tipo de solo que tivesse valor para a agricultura e pouca
         representatividade no dataset. Assim inicia-se o processo de classificação de Nitossolos em território nacional utilizando
         o dataset fornecido pela Embrapa.
+
+- Reprodutibilidade do experimento:
+    O código foi escrito e executado com o uso da IDE Google Colab.
+    Para a reprodução do experimento é necessário baixar o dataset para o computador local
